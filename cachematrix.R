@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Prgramming assignment 2 to test on caching.
+## the function does XXXXXX
 
 ## Write a short comment describing this function
 
